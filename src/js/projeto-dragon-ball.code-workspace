@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/projeto-dragon-ball"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"liveServer.settings.multiRootWorkspaceName": "projeto-dragon-ball"
+	}
+}
